@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GameHunt</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="welcome_back_gamer">Welcome back, Gamer!</string>
+    <string name="search_for_games">Search for games</string>
+    <string name="popular_games">Popular Games</string>
+    <string name="no_games_found">No games found</string>
+    <string name="results">Results</string>
+    <string name="all_games">All Games</string>
+    <string name="we_couldn_t_load_the_games_please_check_your_connection_and_try_again">We couldn\'t load the games. Please check your connection and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="share">Share</string>
+    <string name="oops_we_couldn_t_load_the_game_details">Oops! We couldn\'t load the game details.</string>
+    <string name="share_via">Share via</string>
+    <string name="about_game">About game</string>
+    <string name="see_less">See less</string>
+    <string name="see_more">See more</string>
+    <string name="screenshots">Screenshots</string>
+</resources>
