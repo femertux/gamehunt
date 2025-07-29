@@ -31,7 +31,7 @@ GameHunt is an Android app built with Jetpack Compose and Clean Architecture. It
 ## 🎥 Demo
 
 You can watch a short demo of the app here:
-https://streamable.com/ib6t6g
+https://streamable.com/kxp3vj
 
 ## 🚀 Tech Stack
 
